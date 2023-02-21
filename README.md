@@ -1,1 +1,1 @@
-# GitHub Repositories
+This is a collection of my notes on intermediate and advanced topics in C#. As of right now, whatever's in here is what I know about said topic. If a particular topic isn't covered here, then I probably don't know about it (and hopefully will get to know about it soon). These notes are by no means finished; I will update them as I learn new things.

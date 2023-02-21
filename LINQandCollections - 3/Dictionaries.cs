@@ -82,7 +82,7 @@ public class Dictionaries {
         //elements into the dictionary, once you remove an element the entire thing gets jumbled.
 
 
-        //OREDERED DICTIONARIES
+        //ORDERED DICTIONARIES
 
         //To keep the order of the elements we can use an OrderedDictionary
         //BUT, unlike dictionaries and most other classes we've come across so far, OrderedDictionaries are NOT GENERIC 
@@ -112,7 +112,7 @@ public class Dictionaries {
 
         Console.WriteLine(od[0]);
 
-        //@@@!!! Non-generic data types are not really recommended for use. They are generally slower than
+        //@@@!!! Non-generic data types are not really recommended for use. They are generally much slower than
         //their generic counterparts (explained in MemoryAllocation in Optimization - 5) @@@!!!
 
 

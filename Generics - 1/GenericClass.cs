@@ -26,6 +26,7 @@ namespace Generics
         {
             Data = data;
         }
+
         public void Printdata()
         {
             Console.WriteLine(Data);
